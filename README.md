@@ -27,8 +27,9 @@ Ce document est un travail pratique (TP) portant sur Zabbix, une solution open s
 - Utilisation des éléments personnalisés et déclencheurs (triggers) pour affiner les alertes
 
 
-**Objectif 4 : Création de tableaux de bord
-Mise en place de dashboards pour visualiser :**
+**Objectif 4 : Création de tableaux de bord**
+
+**Mise en place de dashboards pour visualiser:**
 
 - L’état des serveurs et services critiques
 - Les performances réseau et système
