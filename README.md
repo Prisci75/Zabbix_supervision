@@ -35,8 +35,9 @@ Mise en place de dashboards pour visualiser :**
 - Les conditions environnementales (température, humidité…)
 
 
-**Contenu pédagogique et technique
-Le TP aborde :**
+**Contenu pédagogique et technique**
+  
+  Le TP aborde :
 
 - La définition de la supervision dans un SI
 - Le fonctionnement de Zabbix (serveur, agents, proxy, base de données, API…)
