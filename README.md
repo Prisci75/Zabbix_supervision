@@ -4,7 +4,8 @@ TP sur Zabbix
 Ce document est un travail pratique (TP) portant sur Zabbix, une solution open source de supervision informatique. Il couvre à la fois les aspects théoriques (définitions, composants, concepts) et pratiques (installation, configuration, scénarios de surveillance).
 
 
-**Objectifs du TP**
+**Objectifs du TP:**
+
 **Objectif 1 : Installation et configuration de base**
 
   - Création de 2 machines virtuelles Debian 12 (Zabbix et Web)
