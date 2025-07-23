@@ -1,7 +1,7 @@
 # Zabbix_supervision
 TP sur Zabbix 
 
-Ce document est un travail pratique (TP) portant sur Zabbix, une solution open source de supervision informatique. Il couvre à la fois les aspects théoriques (définitions, composants, concepts) et pratiques (installation, configuration, scénarios de surveillance).
+Ce document est un projet portant sur Zabbix, une solution open source de supervision informatique. Il couvre à la fois les aspects théoriques (définitions, composants, concepts) et pratiques (installation, configuration, scénarios de surveillance).
 
 
 **Objectifs du TP:**
